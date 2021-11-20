@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="identification">Documento</string>
+    <string name="register">Registrarse</string>
+    <string name="btn_edit_user">Editar</string>
+    <string name="btn_delete_user">Eliminar</string>
+</resources>
